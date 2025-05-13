@@ -15,7 +15,7 @@ class Product extends Model
         'image',
         'category',
         'status',
-        'user_id',
+        'admin_id',
     ];
 
 }
